@@ -11,7 +11,7 @@ In this step we imported the required libraries and dataset. After inporting the
 In this step we analysed the distribution of data in each column and according to that, we imputed the null values in each column. And finally checked that there is no null values or duplicate rows. 
 ## 3. Exploratory data analysis and insights building
 In this step we analysed the data through charts and graphs and found insights and answered following questions
-  -what insights do you have about the impact of the 2015 regulations on AirBnB ?
-  -Which attributes have the biggest influence on price ?
-  -Which city contributes the most and the least in Airbnb sales ?
-  -Analyse the AirBnB market in Paris.
+-what insights do you have about the impact of the 2015 regulations on AirBnB ?
+-Which attributes have the biggest influence on price ?
+-Which city contributes the most and the least in Airbnb sales ?
+-Analyse the AirBnB market in Paris.
