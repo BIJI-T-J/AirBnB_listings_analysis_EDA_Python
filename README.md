@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/230e14fb-588b-4405-a797-30229f217cfc)
 # AirBnB_listings_analysis_EDA_Python
 ### excel file of dataset, excel file of dataset dictionary, jupyter notebook of project and project report is attached. 
 In this project we analyse Airbnb data and analyse the key factors that affect the pricing through exploratory data analysis
